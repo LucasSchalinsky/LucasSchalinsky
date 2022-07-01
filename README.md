@@ -1,9 +1,4 @@
-<div style="display: flex">
-  <a href="https://github.com/LucasSchalinsky">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasSchalinsky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-  ## Linguagens e framekworks 
+## Linguagens e framekworks 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
