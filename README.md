@@ -18,7 +18,7 @@ Front-end Developer specialized in **Angular** with 4+ years of experience build
 
 ## 🔧 Some Things I Built
 
-- **Discord Profile Card** – [schalinsky.com](https://www.schalinsky.com/) - Personal website that recreates the old Discord profile card using live data from the Lanyard API.
+- **Discord Profile Card** – [Website](https://www.schalinsky.com/) - Personal website that recreates the old Discord profile card using live data from the Lanyard API.
 - **Twitch Emote Manager** – [Live App](https://twitchemotemanager.streamlit.app/) - Streamlit app that processes emote grids, generates assets, and previews them in a Twitch-like chat.
 
 ---
