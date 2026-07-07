@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Schalinsky 👋
 
-Front-end Developer specialized in **Angular** with 4+ years of experience building scalable and user-focused web applications.
+Front-end Developer specialized in **Angular** with 5+ years of experience building scalable and user-focused web applications.
 
 📍 Brazil  
 💬 Portuguese (native) | English (advanced)
